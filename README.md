@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabo Kumar</h1>
 <h3 align="center">I'm a frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar8523&label=Profile%20views&color=0e75b6&style=flat" alt="kumar8523" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar8523&label=Profile%20views&color=0e75b6&style=flat" alt="kumar8523"/></p>
 
 - 🌱 I’m currently learning **Javascript and Python**
 
