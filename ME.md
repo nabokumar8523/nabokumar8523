@@ -155,9 +155,9 @@ Photoshop    ████████████░░░░░░░░  60%  
 
 ## 💡 Random Dev Quote
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue_navy" />
-</div>
+<!-- <div align="center"> -->
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue_navy" /> -->
+<!-- </div> -->
 
 ---
 
@@ -166,9 +166,9 @@ Photoshop    ████████████░░░░░░░░  60%  
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nabokumar8523-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabokumar8523)
-[![Email](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabokumar8523@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabokumar8523)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nabokumar8523)
+[![Email](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 
 </div>
 
