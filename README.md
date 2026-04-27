@@ -1,8 +1,8 @@
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
-<!--           PREMIUM GITHUB PROFILE â€” nabokumar8523          -->
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--           PREMIUM GITHUB PROFILE — nabokumar8523          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED WAVE HEADER â€” BLUE THEME matching #0e75b6 -->
+<!-- ANIMATED WAVE HEADER — BLUE THEME matching #0e75b6 -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a9fd4,100:0a5c8a&height=220&section=header&text=Nabo%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" />
 </div>
@@ -10,7 +10,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 <a href="https://github.com/nabokumar8523">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=0e75b6&center=true&vCenter=true&width=650&lines=ðŸ‘‹+Hi%2C+I'm+Nabo+Kumar!;ðŸ’»+Frontend+Developer+from+Bangladesh+ðŸ‡§ðŸ‡©;ðŸŒ±+Currently+Learning+JavaScript+%26+Python;ðŸŽ¨+I+turn+ideas+into+beautiful+UIs;ðŸš€+Let's+build+something+amazing+together!;ðŸ’¬+Ask+me+about+HTML+%26+CSS+anytime!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=0e75b6&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Nabo+Kumar!;💻+Frontend+Developer+from+Bangladesh+🇧🇩;🌱+Currently+Learning+JavaScript+%26+Python;🎨+I+turn+ideas+into+beautiful+UIs;🚀+Let's+build+something+amazing+together!;💬+Ask+me+about+HTML+%26+CSS+anytime!" alt="Typing SVG" />
 </a>
 </div>
 
@@ -28,11 +28,11 @@
 
 ---
 
-<!-- â•â•â•â•â•â•â•â•â•â• SCROLLING NEWS TICKER (à¦šà¦²à¦®à¦¾à¦¨ à¦¹à§‡à¦¡à¦²à¦¾à¦‡à¦¨) â•â•â•â•â•â•â•â•â•â• -->
+<!-- ══════════ SCROLLING NEWS TICKER (চলমান হেডলাইন) ══════════ -->
 
 <div align="center">
 
-> ðŸ“¡ **[ LIVE DEV FEED ]** &nbsp;â–º&nbsp; ðŸ”¥ Building awesome web projects &nbsp;â€¢&nbsp; ðŸ“š Mastering JavaScript & Python &nbsp;â€¢&nbsp; ðŸ’¡ Open to collaborations & freelance &nbsp;â€¢&nbsp; ðŸŽ¯ 2025 Goal: Full-Stack Developer &nbsp;â€¢&nbsp; ðŸŒ Based in Bangladesh ðŸ‡§ðŸ‡© &nbsp;â€¢&nbsp; â­ Star my repos if helpful &nbsp;â€¢&nbsp; ðŸ¤ Let's code together! &nbsp;â€¢&nbsp; ðŸš€ Always shipping something new
+> 📡 **[ LIVE DEV FEED ]** &nbsp;►&nbsp; 🔥 Building awesome web projects &nbsp;•&nbsp; 📚 Mastering JavaScript & Python &nbsp;•&nbsp; 💡 Open to collaborations & freelance &nbsp;•&nbsp; 🎯 2025 Goal: Full-Stack Developer &nbsp;•&nbsp; 🌍 Based in Bangladesh 🇧🇩 &nbsp;•&nbsp; ⭐ Star my repos if helpful &nbsp;•&nbsp; 🤝 Let's code together! &nbsp;•&nbsp; 🚀 Always shipping something new
 
 </div>
 
@@ -42,22 +42,22 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» à¦†à¦®à¦¾à¦° à¦¸à¦®à§à¦ªà¦°à§à¦•à§‡ | About Me
+## 🧑‍💻 আমার সম্পর্কে | About Me
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 
 ```javascript
 const naboKumar = {
   username   : "nabokumar8523",
   role       : "Frontend Developer",
-  location   : "Bangladesh ðŸ‡§ðŸ‡©",
+  location   : "Bangladesh 🇧🇩",
   learning   : ["JavaScript", "Python"],
   expertise  : ["HTML5", "CSS3", "Git"],
   tools      : ["VS Code", "Photoshop", "GitHub"],
   askMeAbout : ["HTML", "CSS", "UI Design"],
-  status     : "Open to opportunities ðŸŸ¢",
-  funFact    : "I perfect pixels before I sleep ðŸŽ¨",
-  motto      : "Code. Create. Inspire. ðŸš€"
+  status     : "Open to opportunities 🟢",
+  funFact    : "I perfect pixels before I sleep 🎨",
+  motto      : "Code. Create. Inspire. 🚀"
 };
 ```
 
@@ -65,37 +65,37 @@ const naboKumar = {
 
 ---
 
-## ðŸ“¡ Developer Status Board
+## 📡 Developer Status Board
 
 <div align="center">
 
-| ðŸ”­ Working On | Building frontend projects & UI components |
+| 🔭 Working On | Building frontend projects & UI components |
 |:---|:---|
-| ðŸŒ± Learning | **JavaScript** & **Python** |
-| ðŸ’¬ Ask Me About | **HTML** & **CSS** â€” always happy to help! |
-| ðŸ¤ Looking For | Collaboration & Freelance Opportunities |
-| âš¡ Fun Fact | I can spend 3 hours perfecting a 2px border-radius ðŸ˜„ |
-| ðŸŽ¯ 2025 Goal | Master Full-Stack Development |
+| 🌱 Learning | **JavaScript** & **Python** |
+| 💬 Ask Me About | **HTML** & **CSS** — always happy to help! |
+| 🤝 Looking For | Collaboration & Freelance Opportunities |
+| ⚡ Fun Fact | I can spend 3 hours perfecting a 2px border-radius 😄 |
+| 🎯 2025 Goal | Master Full-Stack Development |
 
 </div>
 
 ---
 
-## ðŸ› ï¸ Languages & Tools
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-### ðŸŽ¨ Frontend Core
+### 🎨 Frontend Core
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### âš™ï¸ Currently Learning
+### ⚙️ Currently Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### ðŸ”§ Tools & Design
+### 🔧 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -105,7 +105,7 @@ const naboKumar = {
 
 ---
 
-## ðŸ“Š GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -120,7 +120,7 @@ const naboKumar = {
 
 ---
 
-## ðŸ† GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nabokumar8523&theme=flat&no-frame=false&margin-w=6&column=7" />
@@ -128,7 +128,7 @@ const naboKumar = {
 
 ---
 
-## ðŸ“ˆ Contribution Activity Graph
+## 📈 Contribution Activity Graph
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nabokumar8523&bg_color=f0f8ff&color=0e75b6&line=1a9fd4&point=0a5c8a&area=true&area_color=cce7f5&hide_border=false&border_color=0e75b6" />
@@ -136,24 +136,24 @@ const naboKumar = {
 
 ---
 
-## ðŸŽ¯ Skills Progress Meter
+## 🎯 Skills Progress Meter
 
 <div align="center">
 
 ```
-HTML5        â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  95%  ðŸ”¥ Expert
-CSS3         â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘  88%  âš¡ Advanced  
-JavaScript   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘  65%  ðŸ“ˆ Growing
-Python       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  40%  ðŸŒ± Learning
-Git          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘  70%  ðŸ”§ Proficient
-Photoshop    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  60%  ðŸŽ¨ Intermediate
+HTML5        ████████████████████  95%  🔥 Expert
+CSS3         ██████████████████░░  88%  ⚡ Advanced  
+JavaScript   █████████████░░░░░░░  65%  📈 Growing
+Python       ████████░░░░░░░░░░░░  40%  🌱 Learning
+Git          ██████████████░░░░░░  70%  🔧 Proficient
+Photoshop    ████████████░░░░░░░░  60%  🎨 Intermediate
 ```
 
 </div>
 
 ---
 
-## ðŸ’¡ Random Dev Quote
+## 💡 Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue_navy" />
@@ -161,7 +161,7 @@ Photoshop    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ�
 
 ---
 
-## ðŸŒ Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -177,7 +177,7 @@ Photoshop    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ�
 <!-- SNAKE ANIMATION -->
 <div align="center">
 
-### ðŸ Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabokumar8523/nabokumar8523/output/github-contribution-grid-snake-dark.svg" />
@@ -194,7 +194,7 @@ Photoshop    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ�
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a5c8a,50:0e75b6,100:1a9fd4&height=130&section=footer" />
 
-<strong>â­ à¦¯à¦¦à¦¿ à¦†à¦®à¦¾à¦° à¦•à¦¾à¦œ à¦­à¦¾à¦²à§‹ à¦²à¦¾à¦—à§‡, à¦°à¦¿à¦ªà§‹à¦œà¦¿à¦Ÿà¦°à¦¿à¦¤à§‡ à¦à¦•à¦Ÿà¦¾ à¦¸à§à¦Ÿà¦¾à¦° à¦¦à¦¿à¦¨ â€” à¦à¦Ÿà¦¾ à¦†à¦®à¦¾à¦° à¦…à¦¨à§à¦ªà§à¦°à§‡à¦°à¦£à¦¾! â­</strong><br/>
-<em>Made with ðŸ’™ & â˜• by <a href="https://github.com/nabokumar8523"><strong>Nabo Kumar</strong></a> â€” Bangladesh ðŸ‡§ðŸ‡©</em>
+<strong>⭐ যদি আমার কাজ ভালো লাগে, রিপোজিটরিতে একটা স্টার দিন — এটা আমার অনুপ্রেরণা! ⭐</strong><br/>
+<em>Made with 💙 & ☕ by <a href="https://github.com/nabokumar8523"><strong>Nabo Kumar</strong></a> — Bangladesh 🇧🇩</em>
 
 </div>
