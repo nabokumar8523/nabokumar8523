@@ -8,6 +8,7 @@
 </div>
 
 <!-- TYPING ANIMATION -->
+<!-- 
 <div align="center">
 <a href="https://github.com/nabokumar8523">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=0e75b6&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Nabo+Kumar!;💻+Frontend+Developer+from+Bangladesh+🇧🇩;🌱+Currently+Learning+JavaScript+%26+Python;🎨+I+turn+ideas+into+beautiful+UIs;🚀+Let's+build+something+amazing+together!;💬+Ask+me+about+HTML+%26+CSS+anytime!" alt="Typing SVG" />
@@ -15,6 +16,8 @@
 </div>
 
 <br/>
+-->
+
 
 <!-- BADGE ROW -->
 <div align="center">
