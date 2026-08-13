@@ -42,7 +42,7 @@
 const naboKumar = {
   username   : "nabokumar8523",
   role       : "Frontend Developer",
-  location   : "Bangladesh",
+  location   : "Earth",
   learning   : ["JavaScript", "Python"],
   expertise  : ["HTML5", "CSS3", "Git"],
   tools      : ["VS Code", "Photoshop", "GitHub"],
